@@ -14,4 +14,9 @@ class WhatsApp{
 	public static void calling()
 		System.out.println("Calling");	
 	}
+
+	// feature 3
+	public static void videpCalling()
+		System.out.println("Video Calling");	
+	}
 }
